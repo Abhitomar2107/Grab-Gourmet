@@ -1,0 +1,78 @@
+.nvbr{
+    background-color: #CC8D1A;
+    width: 100%;
+}
+
+.logo-c{
+    display: inline-block;
+}
+.navbar-nav{
+    font-family: 'Alex Brush', cursive;
+    color: black;
+    padding-top: 10px !important;
+ 
+    margin-left: 15px;
+}
+
+.logoIcon{
+    margin-left: 10px;
+}
+.userInfo{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.uIcon{
+    width:3rem;
+    height: 3rem;
+    padding-top: 4px;
+    margin-left:0;
+    margin-right: 20px;
+}
+
+
+.mnu{
+    
+    border: none;
+    background-color: #CC8D1A;
+    padding-top: 10px;
+    font-family: 'Bitter', serif;
+    color: black;
+    margin-right: 1em;
+    font-size: 20px;
+}
+.crt{
+   
+  border: none;
+  background-color: #CC8D1A;
+    padding-top: 10px;
+    font-family: 'Bitter', serif;
+    color: black;
+    margin-right: 1em;
+    font-size: 20px;
+}
+.lgout{
+    
+    border: none;
+    background-color: #CC8D1A;
+    padding-top: 10px;
+    font-family: 'Bitter', serif;
+    color: black;
+    margin-right: 1em;
+    font-size: 20px;
+}
+@media (max-width:767px){
+    .mnu{
+        margin-right: 0;
+        font-size: 15px;
+    }
+    .crt{
+        margin-right: 0;
+        font-size: 15px;
+    }
+    .lgout{
+        margin-right: 0;
+        font-size: 15px;
+    }
+}
+
+

@@ -1,0 +1,58 @@
+.menuB{
+    height: 100vh;
+    
+}
+.menuC{
+   
+    min-height: 70vh;
+
+}
+.dishImage{
+    border-radius: 50%;
+    margin: 3px auto;
+    background-position: cover;
+    height: 12em;
+    width: 12em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card{
+    padding: 0;
+    margin: 20px;
+    margin-bottom: 30px;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: rgb(174,137,42);
+    background: linear-gradient(90deg, rgba(174,137,42,1) 0%, rgba(179,183,84,1) 100%);
+    justify-self: stretch;
+    align-self: stretch;
+
+}
+.ordBtn{
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    background-color: #023535 ;
+    color: white ;
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+  
+
+}
+.card-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.card-text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    align-self:flex-end
+   
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .hrule{
+    margin: 0;
+  }

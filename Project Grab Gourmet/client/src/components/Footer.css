@@ -1,0 +1,15 @@
+.ftback{
+    background-color: #CC8D1A;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.copy{
+    padding-bottom: 30px;
+}
+.hme{
+    text-decoration: none;
+    color: black;
+}

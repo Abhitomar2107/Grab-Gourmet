@@ -1,0 +1,34 @@
+.ckmenu{
+    min-height: 100vh;
+    width: 100%;
+    background:url("../assets/Checkout.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    position: relative;
+}
+.delv{
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5%;
+    width: 50%;
+   position: absolute;
+    top:30%;
+    right:25%;
+    left: 25%;;
+    background: rgb(255,233,177);
+    background: linear-gradient(90deg, rgba(255,233,177,0.555234593837535) 0%, rgba(255,234,191,0.636467086834734) 100%);
+
+}
+.dmsg{
+    font-weight: 900;
+    font-size: 3rem;
+    font-family: 'Alex Brush', cursive;
+    text-align: center;
+}
+@media(max-width:900px){
+    .dmsg{
+        font-size: 2rem;
+    }
+}
